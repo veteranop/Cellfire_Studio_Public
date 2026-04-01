@@ -1,0 +1,128 @@
+{
+  "version": "1.0",
+  "description": "Cellfire RF Studio Public Antenna Library",
+  "last_updated": "2026-04-01",
+  "vendors": [
+    {
+      "id": "Andrew_CommScope",
+      "name": "Andrew / CommScope",
+      "antenna_count": 8,
+      "catalog_url": "antennas/Andrew_CommScope/catalog.json"
+    },
+    {
+      "id": "Sinclair_Technologies",
+      "name": "Sinclair Technologies",
+      "antenna_count": 8,
+      "catalog_url": "antennas/Sinclair_Technologies/catalog.json"
+    },
+    {
+      "id": "PCTEL",
+      "name": "PCTEL",
+      "antenna_count": 6,
+      "catalog_url": "antennas/PCTEL/catalog.json"
+    },
+    {
+      "id": "Laird_Connectivity",
+      "name": "Laird Connectivity",
+      "antenna_count": 6,
+      "catalog_url": "antennas/Laird_Connectivity/catalog.json"
+    },
+    {
+      "id": "Kathrein",
+      "name": "Kathrein (Ericsson)",
+      "antenna_count": 6,
+      "catalog_url": "antennas/Kathrein/catalog.json"
+    },
+    {
+      "id": "Cambium_Networks",
+      "name": "Cambium Networks",
+      "antenna_count": 4,
+      "catalog_url": "antennas/Cambium_Networks/catalog.json"
+    },
+    {
+      "id": "Ubiquiti",
+      "name": "Ubiquiti Inc.",
+      "antenna_count": 4,
+      "catalog_url": "antennas/Ubiquiti/catalog.json"
+    },
+    {
+      "id": "dbSpectra",
+      "name": "dbSpectra (Wireless Telecom Group)",
+      "antenna_count": 4,
+      "catalog_url": "antennas/dbSpectra/catalog.json"
+    },
+    {
+      "id": "Antenna_Specialists",
+      "name": "Antenna Specialists (PCTEL)",
+      "antenna_count": 4,
+      "catalog_url": "antennas/Antenna_Specialists/catalog.json"
+    },
+    {
+      "id": "Comtelco",
+      "name": "Comtelco",
+      "antenna_count": 4,
+      "catalog_url": "antennas/Comtelco/catalog.json"
+    },
+    {
+      "id": "Telewave",
+      "name": "Telewave Inc.",
+      "antenna_count": 4,
+      "catalog_url": "antennas/Telewave/catalog.json"
+    },
+    {
+      "id": "Diamond_Antenna",
+      "name": "Diamond Antenna",
+      "antenna_count": 4,
+      "catalog_url": "antennas/Diamond_Antenna/catalog.json"
+    },
+    {
+      "id": "Hustler",
+      "name": "Hustler (Laird)",
+      "antenna_count": 3,
+      "catalog_url": "antennas/Hustler/catalog.json"
+    },
+    {
+      "id": "Larsen",
+      "name": "Larsen (PCTEL)",
+      "antenna_count": 3,
+      "catalog_url": "antennas/Larsen/catalog.json"
+    },
+    {
+      "id": "Shakespeare",
+      "name": "Shakespeare Marine",
+      "antenna_count": 3,
+      "catalog_url": "antennas/Shakespeare/catalog.json"
+    },
+    {
+      "id": "Tram_Browning",
+      "name": "Tram / Browning",
+      "antenna_count": 3,
+      "catalog_url": "antennas/Tram_Browning/catalog.json"
+    },
+    {
+      "id": "Jampro",
+      "name": "Jampro Antennas",
+      "antenna_count": 3,
+      "catalog_url": "antennas/Jampro/catalog.json"
+    },
+    {
+      "id": "Shively_Labs",
+      "name": "Shively Labs",
+      "antenna_count": 3,
+      "catalog_url": "antennas/Shively_Labs/catalog.json"
+    },
+    {
+      "id": "ETS_Lindgren",
+      "name": "ETS-Lindgren",
+      "antenna_count": 3,
+      "catalog_url": "antennas/ETS_Lindgren/catalog.json"
+    },
+    {
+      "id": "Generic",
+      "name": "Generic / Reference",
+      "antenna_count": 4,
+      "catalog_url": "antennas/Generic/catalog.json"
+    }
+  ],
+  "total_antennas": 87
+}

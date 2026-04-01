@@ -1,0 +1,50 @@
+{
+  "vendor": "Jampro Antennas",
+  "antennas": [
+    {
+      "id": "JLCP",
+      "name": "JLCP",
+      "manufacturer": "Jampro Antennas",
+      "part_number": "JLCP",
+      "gain_dbi": 5,
+      "band": "FM Broadcast",
+      "frequency_range": "88-108 MHz",
+      "type": "Directional",
+      "polarization": "Circular",
+      "beamwidth_h": 120,
+      "beamwidth_v": 50,
+      "xml_file": "JLCP.xml",
+      "description": "FM 88-108MHz circular polarized sidemount directional"
+    },
+    {
+      "id": "JMPC_CP",
+      "name": "JMPC-CP",
+      "manufacturer": "Jampro Antennas",
+      "part_number": "JMPC-CP",
+      "gain_dbi": 8,
+      "band": "FM Broadcast",
+      "frequency_range": "88-108 MHz",
+      "type": "Directional",
+      "polarization": "Circular",
+      "beamwidth_h": 90,
+      "beamwidth_v": 35,
+      "xml_file": "JMPC_CP.xml",
+      "description": "FM 88-108MHz multi-station CP panel"
+    },
+    {
+      "id": "JAHD",
+      "name": "JAHD",
+      "manufacturer": "Jampro Antennas",
+      "part_number": "JAHD",
+      "gain_dbi": 4,
+      "band": "FM Broadcast",
+      "frequency_range": "88-108 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Circular",
+      "beamwidth_h": 360,
+      "beamwidth_v": 45,
+      "xml_file": "JAHD.xml",
+      "description": "FM 88-108MHz high-power dipole omni"
+    }
+  ]
+}

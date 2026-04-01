@@ -1,0 +1,65 @@
+{
+  "vendor": "Antenna Specialists (PCTEL)",
+  "antennas": [
+    {
+      "id": "ASP930T",
+      "name": "ASP930T",
+      "manufacturer": "Antenna Specialists (PCTEL)",
+      "part_number": "ASP930T",
+      "gain_dbi": 6,
+      "band": "800/900 MHz",
+      "frequency_range": "896-940 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 30,
+      "xml_file": "ASP930T.xml",
+      "description": "896-940MHz omni 6dBi collinear"
+    },
+    {
+      "id": "ASP558T",
+      "name": "ASP558T",
+      "manufacturer": "Antenna Specialists (PCTEL)",
+      "part_number": "ASP558T",
+      "gain_dbi": 6,
+      "band": "UHF",
+      "frequency_range": "450-470 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 30,
+      "xml_file": "ASP558T.xml",
+      "description": "UHF 450-470MHz omni 6dBi collinear"
+    },
+    {
+      "id": "ASPD7295T",
+      "name": "ASPD7295T",
+      "manufacturer": "Antenna Specialists (PCTEL)",
+      "part_number": "ASPD7295T",
+      "gain_dbi": 10,
+      "band": "UHF",
+      "frequency_range": "406-512 MHz",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 50,
+      "beamwidth_v": 45,
+      "xml_file": "ASPD7295T.xml",
+      "description": "UHF 406-512MHz yagi 10dBi directional"
+    },
+    {
+      "id": "ASP572",
+      "name": "ASP572",
+      "manufacturer": "Antenna Specialists (PCTEL)",
+      "part_number": "ASP572",
+      "gain_dbi": 3,
+      "band": "VHF",
+      "frequency_range": "150-174 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 60,
+      "xml_file": "ASP572.xml",
+      "description": "VHF 150-174MHz omni 3dBi collinear"
+    }
+  ]
+}

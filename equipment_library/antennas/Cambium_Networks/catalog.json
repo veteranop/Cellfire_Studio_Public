@@ -1,0 +1,65 @@
+{
+  "vendor": "Cambium Networks",
+  "antennas": [
+    {
+      "id": "C050900D021A",
+      "name": "C050900D021A",
+      "manufacturer": "Cambium Networks",
+      "part_number": "C050900D021A",
+      "gain_dbi": 25,
+      "band": "5 GHz",
+      "frequency_range": "4900-5975 MHz",
+      "type": "Directional",
+      "polarization": "Dual",
+      "beamwidth_h": 8,
+      "beamwidth_v": 8,
+      "xml_file": "C050900D021A.xml",
+      "description": "5GHz 25dBi dish directional"
+    },
+    {
+      "id": "N000900L006A",
+      "name": "N000900L006A",
+      "manufacturer": "Cambium Networks",
+      "part_number": "N000900L006A",
+      "gain_dbi": 19,
+      "band": "5 GHz",
+      "frequency_range": "4900-5975 MHz",
+      "type": "Directional",
+      "polarization": "Dual (+/-45)",
+      "beamwidth_h": 120,
+      "beamwidth_v": 7,
+      "xml_file": "N000900L006A.xml",
+      "description": "5GHz 19dBi sector, 120 degree"
+    },
+    {
+      "id": "C054045C002A",
+      "name": "C054045C002A",
+      "manufacturer": "Cambium Networks",
+      "part_number": "C054045C002A",
+      "gain_dbi": 17,
+      "band": "5 GHz",
+      "frequency_range": "4900-5975 MHz",
+      "type": "Directional",
+      "polarization": "Dual (+/-45)",
+      "beamwidth_h": 90,
+      "beamwidth_v": 8,
+      "xml_file": "C054045C002A.xml",
+      "description": "5GHz 17dBi sector, 90 degree"
+    },
+    {
+      "id": "N000000L034A",
+      "name": "N000000L034A",
+      "manufacturer": "Cambium Networks",
+      "part_number": "N000000L034A",
+      "gain_dbi": 18,
+      "band": "3 GHz",
+      "frequency_range": "3300-3800 MHz",
+      "type": "Directional",
+      "polarization": "Dual (+/-45)",
+      "beamwidth_h": 90,
+      "beamwidth_v": 8,
+      "xml_file": "N000000L034A.xml",
+      "description": "3GHz 18dBi sector, 90 degree"
+    }
+  ]
+}

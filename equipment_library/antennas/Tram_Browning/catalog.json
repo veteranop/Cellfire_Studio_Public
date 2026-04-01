@@ -1,0 +1,50 @@
+{
+  "vendor": "Tram / Browning",
+  "antennas": [
+    {
+      "id": "Model_1480",
+      "name": "Model 1480",
+      "manufacturer": "Tram / Browning",
+      "part_number": "1480",
+      "gain_dbi": 6.7,
+      "band": "VHF",
+      "frequency_range": "144-148 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 28,
+      "xml_file": "Model_1480.xml",
+      "description": "VHF 144-148MHz 6.7dBi collinear omni"
+    },
+    {
+      "id": "Model_1486",
+      "name": "Model 1486",
+      "manufacturer": "Tram / Browning",
+      "part_number": "1486",
+      "gain_dbi": 9.5,
+      "band": "UHF",
+      "frequency_range": "440-450 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 15,
+      "xml_file": "Model_1486.xml",
+      "description": "UHF 440-450MHz 9.5dBi collinear omni"
+    },
+    {
+      "id": "Model_6051",
+      "name": "Model 6051",
+      "manufacturer": "Tram / Browning",
+      "part_number": "6051",
+      "gain_dbi": 2,
+      "band": "VHF",
+      "frequency_range": "146-167 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 78,
+      "xml_file": "Model_6051.xml",
+      "description": "VHF 146-167MHz 2dBi fiberglass omni"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "vendor": "Ubiquiti Inc.",
+  "antennas": [
+    {
+      "id": "AM-5G17-90",
+      "name": "AM-5G17-90",
+      "manufacturer": "Ubiquiti Inc.",
+      "part_number": "AM-5G17-90",
+      "gain_dbi": 17,
+      "band": "5 GHz",
+      "frequency_range": "4900-5850 MHz",
+      "type": "Directional",
+      "polarization": "Dual",
+      "beamwidth_h": 90,
+      "beamwidth_v": 8,
+      "xml_file": "AM-5G17-90.xml",
+      "description": "5GHz 17dBi sector, 90 degree"
+    },
+    {
+      "id": "AM-5G19-120",
+      "name": "AM-5G19-120",
+      "manufacturer": "Ubiquiti Inc.",
+      "part_number": "AM-5G19-120",
+      "gain_dbi": 19,
+      "band": "5 GHz",
+      "frequency_range": "4900-5850 MHz",
+      "type": "Directional",
+      "polarization": "Dual",
+      "beamwidth_h": 120,
+      "beamwidth_v": 6,
+      "xml_file": "AM-5G19-120.xml",
+      "description": "5GHz 19dBi sector, 120 degree"
+    },
+    {
+      "id": "RD-5G30",
+      "name": "RD-5G30",
+      "manufacturer": "Ubiquiti Inc.",
+      "part_number": "RD-5G30",
+      "gain_dbi": 30,
+      "band": "5 GHz",
+      "frequency_range": "4900-5850 MHz",
+      "type": "Directional",
+      "polarization": "Dual",
+      "beamwidth_h": 5,
+      "beamwidth_v": 5,
+      "xml_file": "RD-5G30.xml",
+      "description": "5GHz 30dBi dish"
+    },
+    {
+      "id": "LBE-5AC-Gen2",
+      "name": "LBE-5AC-Gen2",
+      "manufacturer": "Ubiquiti Inc.",
+      "part_number": "LBE-5AC-Gen2",
+      "gain_dbi": 23,
+      "band": "5 GHz",
+      "frequency_range": "5150-5875 MHz",
+      "type": "Directional",
+      "polarization": "Dual",
+      "beamwidth_h": 10,
+      "beamwidth_v": 10,
+      "xml_file": "LBE-5AC-Gen2.xml",
+      "description": "5GHz 23dBi dish integrated"
+    }
+  ]
+}

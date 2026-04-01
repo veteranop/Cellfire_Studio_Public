@@ -1,0 +1,65 @@
+{
+  "vendor": "dbSpectra (Wireless Telecom Group)",
+  "antennas": [
+    {
+      "id": "DS7A12P90U-N",
+      "name": "DS7A12P90U-N",
+      "manufacturer": "dbSpectra (Wireless Telecom Group)",
+      "part_number": "DS7A12P90U-N",
+      "gain_dbi": 12,
+      "band": "UHF",
+      "frequency_range": "406-512 MHz",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 90,
+      "beamwidth_v": 22,
+      "xml_file": "DS7A12P90U-N.xml",
+      "description": "UHF 406-512MHz 12dBi panel, 90 degree"
+    },
+    {
+      "id": "DS7C08PPYU",
+      "name": "DS7C08PPYU",
+      "manufacturer": "dbSpectra (Wireless Telecom Group)",
+      "part_number": "DS7C08PPYU",
+      "gain_dbi": 8,
+      "band": "700/800 MHz",
+      "frequency_range": "764-869 MHz",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 75,
+      "beamwidth_v": 30,
+      "xml_file": "DS7C08PPYU.xml",
+      "description": "764-869MHz 8dBi panel, offset directional"
+    },
+    {
+      "id": "DS3A06P90U",
+      "name": "DS3A06P90U",
+      "manufacturer": "dbSpectra (Wireless Telecom Group)",
+      "part_number": "DS3A06P90U",
+      "gain_dbi": 6,
+      "band": "VHF",
+      "frequency_range": "138-174 MHz",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 90,
+      "beamwidth_v": 40,
+      "xml_file": "DS3A06P90U.xml",
+      "description": "VHF 138-174MHz 6dBi panel, 90 degree"
+    },
+    {
+      "id": "DS7A15P65U",
+      "name": "DS7A15P65U",
+      "manufacturer": "dbSpectra (Wireless Telecom Group)",
+      "part_number": "DS7A15P65U",
+      "gain_dbi": 15,
+      "band": "UHF",
+      "frequency_range": "406-512 MHz",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 65,
+      "beamwidth_v": 15,
+      "xml_file": "DS7A15P65U.xml",
+      "description": "UHF 406-512MHz 15dBi panel, 65 degree"
+    }
+  ]
+}

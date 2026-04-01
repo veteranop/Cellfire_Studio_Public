@@ -1,0 +1,65 @@
+{
+  "vendor": "Diamond Antenna",
+  "antennas": [
+    {
+      "id": "X510HDN",
+      "name": "X510HDN",
+      "manufacturer": "Diamond Antenna",
+      "part_number": "X510HDN",
+      "gain_dbi": 11.7,
+      "band": "VHF/UHF Dual-band",
+      "frequency_range": "144-148/430-440 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 12,
+      "xml_file": "X510HDN.xml",
+      "description": "VHF/UHF dual-band omni 8.3/11.7dBi collinear"
+    },
+    {
+      "id": "A430S10R2",
+      "name": "A430S10R2",
+      "manufacturer": "Diamond Antenna",
+      "part_number": "A430S10R2",
+      "gain_dbi": 14.3,
+      "band": "UHF",
+      "frequency_range": "430-440 MHz",
+      "type": "Directional",
+      "polarization": "Horizontal",
+      "beamwidth_h": 32,
+      "beamwidth_v": 36,
+      "xml_file": "A430S10R2.xml",
+      "description": "UHF 430-440MHz 10-element yagi 14.3dBi"
+    },
+    {
+      "id": "A144S10R2",
+      "name": "A144S10R2",
+      "manufacturer": "Diamond Antenna",
+      "part_number": "A144S10R2",
+      "gain_dbi": 13.2,
+      "band": "VHF",
+      "frequency_range": "144-148 MHz",
+      "type": "Directional",
+      "polarization": "Horizontal",
+      "beamwidth_h": 34,
+      "beamwidth_v": 38,
+      "xml_file": "A144S10R2.xml",
+      "description": "VHF 144-148MHz 10-element yagi 13.2dBi"
+    },
+    {
+      "id": "X200A",
+      "name": "X200A",
+      "manufacturer": "Diamond Antenna",
+      "part_number": "X200A",
+      "gain_dbi": 8.0,
+      "band": "VHF/UHF Dual-band",
+      "frequency_range": "144-148/430-440 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 20,
+      "xml_file": "X200A.xml",
+      "description": "VHF/UHF dual-band omni 6.0/8.0dBi"
+    }
+  ]
+}

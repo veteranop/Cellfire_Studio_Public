@@ -1,0 +1,50 @@
+{
+  "vendor": "Shakespeare Marine",
+  "antennas": [
+    {
+      "id": "Style_4431",
+      "name": "Style 4431",
+      "manufacturer": "Shakespeare Marine",
+      "part_number": "4431",
+      "gain_dbi": 3,
+      "band": "Marine VHF",
+      "frequency_range": "156-163 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 60,
+      "xml_file": "Style_4431.xml",
+      "description": "Marine VHF 156-163MHz 3dBi omni"
+    },
+    {
+      "id": "Style_5225_XT",
+      "name": "Style 5225-XT",
+      "manufacturer": "Shakespeare Marine",
+      "part_number": "5225-XT",
+      "gain_dbi": 8,
+      "band": "Marine VHF",
+      "frequency_range": "156-163 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 20,
+      "xml_file": "Style_5225_XT.xml",
+      "description": "Marine VHF 156-163MHz 8dBi high-gain omni"
+    },
+    {
+      "id": "Galaxy_5018",
+      "name": "Galaxy 5018",
+      "manufacturer": "Shakespeare Marine",
+      "part_number": "5018",
+      "gain_dbi": 17,
+      "band": "Marine VHF",
+      "frequency_range": "156-163 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 5,
+      "xml_file": "Galaxy_5018.xml",
+      "description": "Marine VHF 156-163MHz 17dBi high-gain omni"
+    }
+  ]
+}

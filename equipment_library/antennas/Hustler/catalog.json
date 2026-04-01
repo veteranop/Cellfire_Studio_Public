@@ -1,0 +1,50 @@
+{
+  "vendor": "Hustler (Laird)",
+  "antennas": [
+    {
+      "id": "G7-150",
+      "name": "G7-150",
+      "manufacturer": "Hustler (Laird)",
+      "part_number": "G7-150",
+      "gain_dbi": 7,
+      "band": "VHF",
+      "frequency_range": "148-174 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 25,
+      "xml_file": "G7-150.xml",
+      "description": "VHF 148-174MHz 7dBi collinear omni"
+    },
+    {
+      "id": "G6-450",
+      "name": "G6-450",
+      "manufacturer": "Hustler (Laird)",
+      "part_number": "G6-450",
+      "gain_dbi": 6,
+      "band": "UHF",
+      "frequency_range": "450-470 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 30,
+      "xml_file": "G6-450.xml",
+      "description": "UHF 450-470MHz 6dBi collinear omni"
+    },
+    {
+      "id": "G7-800",
+      "name": "G7-800",
+      "manufacturer": "Hustler (Laird)",
+      "part_number": "G7-800",
+      "gain_dbi": 7,
+      "band": "800 MHz",
+      "frequency_range": "806-869 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 25,
+      "xml_file": "G7-800.xml",
+      "description": "806-869MHz 7dBi collinear omni"
+    }
+  ]
+}

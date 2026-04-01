@@ -1,0 +1,50 @@
+{
+  "vendor": "ETS-Lindgren",
+  "antennas": [
+    {
+      "id": "Model_3164_06",
+      "name": "Model 3164-06",
+      "manufacturer": "ETS-Lindgren",
+      "part_number": "3164-06",
+      "gain_dbi": 6,
+      "band": "Broadband",
+      "frequency_range": "1-18 GHz",
+      "type": "Directional",
+      "polarization": "Linear",
+      "beamwidth_h": 65,
+      "beamwidth_v": 55,
+      "xml_file": "Model_3164_06.xml",
+      "description": "1-18GHz log-periodic broadband 6dBi"
+    },
+    {
+      "id": "Model_3115",
+      "name": "Model 3115",
+      "manufacturer": "ETS-Lindgren",
+      "part_number": "3115",
+      "gain_dbi": 12,
+      "band": "Broadband",
+      "frequency_range": "750 MHz-18 GHz",
+      "type": "Directional",
+      "polarization": "Linear",
+      "beamwidth_h": 40,
+      "beamwidth_v": 35,
+      "xml_file": "Model_3115.xml",
+      "description": "750MHz-18GHz double-ridge horn 12dBi"
+    },
+    {
+      "id": "Model_3106B",
+      "name": "Model 3106B",
+      "manufacturer": "ETS-Lindgren",
+      "part_number": "3106B",
+      "gain_dbi": 5,
+      "band": "Broadband",
+      "frequency_range": "200 MHz-2 GHz",
+      "type": "Directional",
+      "polarization": "Linear",
+      "beamwidth_h": 70,
+      "beamwidth_v": 60,
+      "xml_file": "Model_3106B.xml",
+      "description": "200MHz-2GHz log-periodic 5dBi"
+    }
+  ]
+}

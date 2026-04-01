@@ -1,0 +1,65 @@
+{
+  "vendor": "Generic / Reference",
+  "antennas": [
+    {
+      "id": "Ideal_Isotropic",
+      "name": "Ideal Isotropic",
+      "manufacturer": "Generic / Reference",
+      "part_number": "ISOTROPIC",
+      "gain_dbi": 0,
+      "band": "All",
+      "frequency_range": "All frequencies",
+      "type": "Omnidirectional",
+      "polarization": "N/A",
+      "beamwidth_h": 360,
+      "beamwidth_v": 360,
+      "xml_file": "Ideal_Isotropic.xml",
+      "description": "0dBi perfect isotropic radiator (reference)"
+    },
+    {
+      "id": "Half_Wave_Dipole",
+      "name": "Half-Wave Dipole",
+      "manufacturer": "Generic / Reference",
+      "part_number": "DIPOLE",
+      "gain_dbi": 2.15,
+      "band": "All",
+      "frequency_range": "All frequencies",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 78,
+      "xml_file": "Half_Wave_Dipole.xml",
+      "description": "2.15dBi standard half-wave dipole pattern"
+    },
+    {
+      "id": "Quarter_Wave_Ground_Plane",
+      "name": "Quarter-Wave Ground Plane",
+      "manufacturer": "Generic / Reference",
+      "part_number": "GROUND-PLANE",
+      "gain_dbi": 2,
+      "band": "All",
+      "frequency_range": "All frequencies",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 80,
+      "xml_file": "Quarter_Wave_Ground_Plane.xml",
+      "description": "2dBi standard quarter-wave ground plane vertical"
+    },
+    {
+      "id": "Generic_Sector_90",
+      "name": "Generic 90-degree Sector",
+      "manufacturer": "Generic / Reference",
+      "part_number": "SECTOR-90",
+      "gain_dbi": 12,
+      "band": "All",
+      "frequency_range": "All frequencies",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 90,
+      "beamwidth_v": 22,
+      "xml_file": "Generic_Sector_90.xml",
+      "description": "Generic 12dBi 90 degree sector panel"
+    }
+  ]
+}

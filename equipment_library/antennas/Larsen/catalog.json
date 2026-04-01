@@ -1,0 +1,50 @@
+{
+  "vendor": "Larsen (PCTEL)",
+  "antennas": [
+    {
+      "id": "BSAOL150",
+      "name": "BSAOL150",
+      "manufacturer": "Larsen (PCTEL)",
+      "part_number": "BSAOL150",
+      "gain_dbi": 3,
+      "band": "VHF",
+      "frequency_range": "150-174 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 60,
+      "xml_file": "BSAOL150.xml",
+      "description": "VHF 150-174MHz 3dBi omni collinear"
+    },
+    {
+      "id": "BSAOL450",
+      "name": "BSAOL450",
+      "manufacturer": "Larsen (PCTEL)",
+      "part_number": "BSAOL450",
+      "gain_dbi": 3,
+      "band": "UHF",
+      "frequency_range": "450-470 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 60,
+      "xml_file": "BSAOL450.xml",
+      "description": "UHF 450-470MHz 3dBi omni collinear"
+    },
+    {
+      "id": "BSYAGI6E",
+      "name": "BSYAGI6E",
+      "manufacturer": "Larsen (PCTEL)",
+      "part_number": "BSYAGI6E",
+      "gain_dbi": 10.2,
+      "band": "VHF",
+      "frequency_range": "150-174 MHz",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 48,
+      "beamwidth_v": 42,
+      "xml_file": "BSYAGI6E.xml",
+      "description": "VHF 150-174MHz 10.2dBi 6-element yagi"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "vendor": "Telewave Inc.",
+  "antennas": [
+    {
+      "id": "ANT450D6",
+      "name": "ANT450D6",
+      "manufacturer": "Telewave Inc.",
+      "part_number": "ANT450D6",
+      "gain_dbi": 6,
+      "band": "UHF",
+      "frequency_range": "450-470 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 30,
+      "xml_file": "ANT450D6.xml",
+      "description": "UHF 450-470MHz omni 6dBi collinear"
+    },
+    {
+      "id": "ANT150D3",
+      "name": "ANT150D3",
+      "manufacturer": "Telewave Inc.",
+      "part_number": "ANT150D3",
+      "gain_dbi": 3,
+      "band": "VHF",
+      "frequency_range": "148-174 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 60,
+      "xml_file": "ANT150D3.xml",
+      "description": "VHF 148-174MHz omni 3dBi collinear"
+    },
+    {
+      "id": "ANT150Y6",
+      "name": "ANT150Y6",
+      "manufacturer": "Telewave Inc.",
+      "part_number": "ANT150Y6",
+      "gain_dbi": 10.2,
+      "band": "VHF",
+      "frequency_range": "148-174 MHz",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 48,
+      "beamwidth_v": 42,
+      "xml_file": "ANT150Y6.xml",
+      "description": "VHF 148-174MHz yagi 10.2dBi 6-element"
+    },
+    {
+      "id": "ANT800F6",
+      "name": "ANT800F6",
+      "manufacturer": "Telewave Inc.",
+      "part_number": "ANT800F6",
+      "gain_dbi": 6,
+      "band": "800 MHz",
+      "frequency_range": "806-896 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 30,
+      "xml_file": "ANT800F6.xml",
+      "description": "806-896MHz omni 6dBi collinear"
+    }
+  ]
+}

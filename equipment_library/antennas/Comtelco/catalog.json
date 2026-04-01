@@ -1,0 +1,65 @@
+{
+  "vendor": "Comtelco",
+  "antennas": [
+    {
+      "id": "BS450HRO",
+      "name": "BS450HRO",
+      "manufacturer": "Comtelco",
+      "part_number": "BS450HRO",
+      "gain_dbi": 6,
+      "band": "UHF",
+      "frequency_range": "450-470 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 30,
+      "xml_file": "BS450HRO.xml",
+      "description": "UHF 450-470MHz omni 6dBi heavy duty collinear"
+    },
+    {
+      "id": "BS150-3",
+      "name": "BS150-3",
+      "manufacturer": "Comtelco",
+      "part_number": "BS150-3",
+      "gain_dbi": 3,
+      "band": "VHF",
+      "frequency_range": "150-174 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 60,
+      "xml_file": "BS150-3.xml",
+      "description": "VHF 150-174MHz omni 3dBi collinear"
+    },
+    {
+      "id": "BSYGI1506",
+      "name": "BSYGI1506",
+      "manufacturer": "Comtelco",
+      "part_number": "BSYGI1506",
+      "gain_dbi": 10,
+      "band": "VHF",
+      "frequency_range": "150-174 MHz",
+      "type": "Directional",
+      "polarization": "Vertical",
+      "beamwidth_h": 48,
+      "beamwidth_v": 42,
+      "xml_file": "BSYGI1506.xml",
+      "description": "VHF 150-174MHz yagi 10dBi 6-element"
+    },
+    {
+      "id": "BS900-5",
+      "name": "BS900-5",
+      "manufacturer": "Comtelco",
+      "part_number": "BS900-5",
+      "gain_dbi": 5,
+      "band": "800/900 MHz",
+      "frequency_range": "896-940 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Vertical",
+      "beamwidth_h": 360,
+      "beamwidth_v": 35,
+      "xml_file": "BS900-5.xml",
+      "description": "896-940MHz omni 5dBi collinear"
+    }
+  ]
+}

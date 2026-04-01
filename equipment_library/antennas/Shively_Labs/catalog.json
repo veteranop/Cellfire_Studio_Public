@@ -1,0 +1,50 @@
+{
+  "vendor": "Shively Labs",
+  "antennas": [
+    {
+      "id": "Model_6014",
+      "name": "Model 6014",
+      "manufacturer": "Shively Labs",
+      "part_number": "6014",
+      "gain_dbi": 6.5,
+      "band": "FM Broadcast",
+      "frequency_range": "88-108 MHz",
+      "type": "Directional",
+      "polarization": "Circular",
+      "beamwidth_h": 100,
+      "beamwidth_v": 40,
+      "xml_file": "Model_6014.xml",
+      "description": "FM 88-108MHz CP panel directional"
+    },
+    {
+      "id": "Model_6810",
+      "name": "Model 6810",
+      "manufacturer": "Shively Labs",
+      "part_number": "6810",
+      "gain_dbi": 3.5,
+      "band": "FM Broadcast",
+      "frequency_range": "88-108 MHz",
+      "type": "Omnidirectional",
+      "polarization": "Circular",
+      "beamwidth_h": 360,
+      "beamwidth_v": 50,
+      "xml_file": "Model_6810.xml",
+      "description": "FM 88-108MHz broadband CP slot omni"
+    },
+    {
+      "id": "Model_6832",
+      "name": "Model 6832",
+      "manufacturer": "Shively Labs",
+      "part_number": "6832",
+      "gain_dbi": 7,
+      "band": "FM Broadcast",
+      "frequency_range": "88-108 MHz",
+      "type": "Directional",
+      "polarization": "Circular",
+      "beamwidth_h": 90,
+      "beamwidth_v": 35,
+      "xml_file": "Model_6832.xml",
+      "description": "FM 88-108MHz high-power CP panel"
+    }
+  ]
+}
